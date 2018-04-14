@@ -1,0 +1,37 @@
+body{
+    color:#D7D9D8 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    background-color: #011526;
+}
+h1{
+    font-size: 3em;
+    margin-left: 4%;
+}
+
+h2{
+    font-size: 1,9em;
+}
+h3{
+    font-size: 1,3em;
+}
+.einde{
+    border-top: 3px #011526 solid;
+}
+.main{
+    width:50%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+    background-color: #BF2441;
+}
+
+.side{
+    width: 35%;
+    float: right;
+    padding: 2%;
+    background-color: #BF2441;
+}
+
